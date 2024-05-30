@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+      "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+      "AdmobOpen": "ca-app-pub-3940256099942544/3419835294",
+      "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+      "FanBanner": "IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
+      "FanNative": "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+      "MaxInterstitial": "",
+      "MaxBanner": "",
+      "MaxNative": "",
+      "AdsCount": "3",
+      "ActiveApp": "yes",
+      "Switch": "fan"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "cr7",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_3wqo7oUquCuZq3Dvp6rL_YhBMQoAgsI-wQ&s",
+      "phone": "123-456-7890",
+      "voice": "https://www.dropbox.com/scl/fi/eifn0wx97inpu440by2ds/0529.MP3?rlkey=dvdd585ykghc1q1mcktjxdiqy&st=mo7i5k5q&dl=1",
+      "video": "https://www.dropbox.com/scl/fi/e1bfsyvjudg7rr9j6inp4/0529.mp4?rlkey=pu4xb7mof46b6mjf1invhy7a3&st=xldd7gk9&dl=1"
+    },
+    {
+      "name": "Dominic Purcell",
+      "image": "https://www.themoviedb.org/t/p/w276_and_h350_face/30giDZ53c8f72pPbXCLK9xMSAnw.jpg",
+      "phone": "987-654-3210",
+      "voice": "jane_voice.mp3",
+      "video": "jane_video.mp4"
+    },
+    {
+      "name": "Robert Knepper",
+      "image": "https://www.themoviedb.org/t/p/w276_and_h350_face/w40AttR4OPQvjYyTVanq5Rm5iOb.jpg",
+      "phone": "555-555-5555",
+      "voice": "alice_voice.mp3",
+      "video": "alice_video.mp4"
+    },
+    {
+      "name": "Sarah Wayne Callies",
+      "image": "https://www.themoviedb.org/t/p/w276_and_h350_face/8XY5IzV1sK2exuyYL5VULQnBERG.jpg",
+      "phone": "444-444-4444",
+      "voice": "bob_voice.mp3",
+      "video": "bob_video.mp4"
+    }
+  ]
+}
